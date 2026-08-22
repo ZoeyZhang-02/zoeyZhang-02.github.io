@@ -1,6 +1,7 @@
 ```html
 <section class="about">
   <h1>你好，欢迎来到我的小小角落。</h1>
+<img src="个人图片.png" alt="个人照片" style="max-width: 300px; border-radius: 8px;">
 
   <p>
     这里记录一个文科研究生在毕业前后的生活。
